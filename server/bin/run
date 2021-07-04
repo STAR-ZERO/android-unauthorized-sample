@@ -1,0 +1,11 @@
+#!/bin/sh
+
+dir=`cd $(dirname ${0}) && pwd`
+working_dir=`dirname $dir`
+
+cd $working_dir
+echo $working_dir
+
+bundle exec ruby app.rb
+
+cd $dir
