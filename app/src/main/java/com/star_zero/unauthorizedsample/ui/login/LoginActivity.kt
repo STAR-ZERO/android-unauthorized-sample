@@ -14,7 +14,7 @@ import com.star_zero.unauthorizedsample.api.AuthService
 import com.star_zero.unauthorizedsample.data.preference.AppPreference
 import com.star_zero.unauthorizedsample.data.repository.AuthRepository
 import com.star_zero.unauthorizedsample.ui.sample.SampleActivity
-import com.star_zero.unauthorizedsample.uitl.exhaustive
+import com.star_zero.unauthorizedsample.util.exhaustive
 import dagger.hilt.android.AndroidEntryPoint
 import kotlinx.coroutines.flow.collect
 import kotlinx.coroutines.launch

@@ -6,7 +6,7 @@ import android.widget.Toast
 import androidx.annotation.MainThread
 import com.star_zero.unauthorizedsample.data.repository.AuthRepository
 import com.star_zero.unauthorizedsample.ui.login.LoginActivity
-import com.star_zero.unauthorizedsample.uitl.UnauthorizedHandler
+import com.star_zero.unauthorizedsample.util.UnauthorizedHandler
 import dagger.hilt.android.HiltAndroidApp
 import timber.log.Timber
 import javax.inject.Inject

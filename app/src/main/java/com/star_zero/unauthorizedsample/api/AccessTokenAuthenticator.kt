@@ -1,8 +1,8 @@
 package com.star_zero.unauthorizedsample.api
 
 import com.star_zero.unauthorizedsample.data.repository.AuthRepository
-import com.star_zero.unauthorizedsample.uitl.AppDispatchers
-import com.star_zero.unauthorizedsample.uitl.UnauthorizedHandler
+import com.star_zero.unauthorizedsample.util.AppDispatchers
+import com.star_zero.unauthorizedsample.util.UnauthorizedHandler
 import kotlinx.coroutines.runBlocking
 import okhttp3.Authenticator
 import okhttp3.Request

@@ -1,4 +1,4 @@
-package com.star_zero.unauthorizedsample.uitl
+package com.star_zero.unauthorizedsample.util
 
 import androidx.annotation.MainThread
 

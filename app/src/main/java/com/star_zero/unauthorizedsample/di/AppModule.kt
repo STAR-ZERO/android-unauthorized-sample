@@ -10,9 +10,9 @@ import com.star_zero.unauthorizedsample.data.repository.AuthDataRepository
 import com.star_zero.unauthorizedsample.data.repository.AuthRepository
 import com.star_zero.unauthorizedsample.data.repository.SampleDataRepository
 import com.star_zero.unauthorizedsample.data.repository.SampleRepository
-import com.star_zero.unauthorizedsample.uitl.AppDispatchers
-import com.star_zero.unauthorizedsample.uitl.DefaultAppDispatchers
-import com.star_zero.unauthorizedsample.uitl.UnauthorizedHandler
+import com.star_zero.unauthorizedsample.util.AppDispatchers
+import com.star_zero.unauthorizedsample.util.DefaultAppDispatchers
+import com.star_zero.unauthorizedsample.util.UnauthorizedHandler
 import dagger.Binds
 import dagger.Module
 import dagger.Provides

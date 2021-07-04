@@ -2,7 +2,7 @@ package com.star_zero.unauthorizedsample.data.repository
 
 import com.star_zero.unauthorizedsample.api.AuthService
 import com.star_zero.unauthorizedsample.data.preference.AppPreference
-import com.star_zero.unauthorizedsample.uitl.AppDispatchers
+import com.star_zero.unauthorizedsample.util.AppDispatchers
 import kotlinx.coroutines.withContext
 import javax.inject.Inject
 import javax.inject.Singleton

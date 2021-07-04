@@ -1,4 +1,4 @@
-package com.star_zero.unauthorizedsample.uitl
+package com.star_zero.unauthorizedsample.util
 
 import kotlinx.coroutines.CoroutineDispatcher
 import kotlinx.coroutines.Dispatchers
